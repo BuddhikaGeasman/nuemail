@@ -46,7 +46,6 @@
     <Compile Include="HTag.cs" />
     <Compile Include="ICSSScript.cs" />
     <Compile Include="IHTag.cs" />
-    <Compile Include="ITemplate.cs" />
     <Compile Include="Template.cs" />
     <Compile Include="TemplateChooser.cs">
       <SubType>Form</SubType>

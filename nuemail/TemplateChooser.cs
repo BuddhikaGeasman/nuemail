@@ -15,7 +15,7 @@ namespace nuemail
             InitializeComponent();
         }
 
-        private void TemplateChooser_Load(object sender, EventArgs e)
+        private void testing1()
         {
             HTag tag1 = new HTag("html");
             HTag tag2 = new HTag("p","para1",new String[1]{"align"},new String[1]{"\"left\""});
@@ -32,6 +32,21 @@ namespace nuemail
             label4.Text = tag4.ToString();
             label5.Text = script1.ToString();
             label6.Text = script2.ToString();
+        }
+
+        private void testing2()
+        {
+            HCode code1 = new HCode();
+
+            code1.addHeadTag();
+            code1.addBodyTag(); // Flag bits are yet not added
+
+            label1.Text = code1.getHTMLCode();
+        }
+
+        private void TemplateChooser_Load(object sender, EventArgs e)
+        {
+            testing2();
         }
     }
 }
