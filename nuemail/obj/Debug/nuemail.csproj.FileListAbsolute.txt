@@ -1,3 +1,8 @@
 C:\Users\Bhathiya\Documents\Visual Studio 2008\Projects\nuemail\nuemail\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Bhathiya\Documents\Visual Studio 2008\Projects\nuemail\nuemail\obj\Debug\nuemail.Properties.Resources.resources
 C:\Users\Bhathiya\Documents\Visual Studio 2008\Projects\nuemail\nuemail\obj\Debug\nuemail.csproj.GenerateResource.Cache
+C:\Users\Bhathiya\Documents\Visual Studio 2008\Projects\nuemail\nuemail\bin\Debug\nuemail.exe
+C:\Users\Bhathiya\Documents\Visual Studio 2008\Projects\nuemail\nuemail\bin\Debug\nuemail.pdb
+C:\Users\Bhathiya\Documents\Visual Studio 2008\Projects\nuemail\nuemail\obj\Debug\nuemail.exe
+C:\Users\Bhathiya\Documents\Visual Studio 2008\Projects\nuemail\nuemail\obj\Debug\nuemail.pdb
+C:\Users\Bhathiya\Documents\Visual Studio 2008\Projects\nuemail\nuemail\obj\Debug\nuemail.TemplateChooser.resources

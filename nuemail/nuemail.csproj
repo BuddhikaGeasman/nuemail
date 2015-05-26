@@ -46,6 +46,7 @@
     <Compile Include="HTag.cs" />
     <Compile Include="ICSSScript.cs" />
     <Compile Include="IHTag.cs" />
+    <Compile Include="ITemplate.cs" />
     <Compile Include="Template.cs" />
     <Compile Include="TemplateChooser.cs">
       <SubType>Form</SubType>
@@ -53,12 +54,15 @@
     <Compile Include="TemplateChooser.Designer.cs">
       <DependentUpon>TemplateChooser.cs</DependentUpon>
     </Compile>
-    <Compile Include="Main.cs" />
+    <Compile Include="PMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TemplateChooser.resx">
+      <DependentUpon>TemplateChooser.cs</DependentUpon>
     </EmbeddedResource>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>

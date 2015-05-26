@@ -1,56 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="nuemail.Template">
-    <Position X="0.75" Y="0.5" Width="1.5" />
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="nuemail.Template" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
       <FileName>Template.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="nuemail.HEDocument">
-    <Position X="6" Y="0.5" Width="1.5" />
+  <Class Name="nuemail.HEDocument" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>HEDocument.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="nuemail.HDocument">
-    <Position X="6" Y="2.5" Width="1.5" />
+  <Class Name="nuemail.HDocument" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>HDocument.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="nuemail.HTag">
-    <Position X="4.25" Y="2.5" Width="1.5" />
+  <Class Name="nuemail.HTag" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>QAACAIAAAAEAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAA=</HashCode>
       <FileName>HTag.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
-  <Class Name="nuemail.HCode">
-    <Position X="0.75" Y="2.5" Width="1.5" />
+  <Class Name="nuemail.HCode" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>HCode.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="nuemail.CSSScript">
-    <Position X="2.5" Y="2.5" Width="1.5" />
+  <Class Name="nuemail.CSSScript" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CSSScript.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Interface Name="nuemail.IHTag">
-    <Position X="4.25" Y="0.5" Width="1.5" />
+  <Interface Name="nuemail.IHTag" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>QAAAAAAAIAEAAAAAQAAABAAACAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IHTag.cs</FileName>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="nuemail.ICSSScript">
-    <Position X="2.5" Y="0.5" Width="1.5" />
+  <Interface Name="nuemail.ICSSScript" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ICSSScript.cs</FileName>

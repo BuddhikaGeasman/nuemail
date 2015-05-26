@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 namespace nuemail
 {
-    static class Main
+    static class PMain
     {
         /// <summary>
         /// The main entry point for the application.
