@@ -6,5 +6,7 @@ namespace nuemail
 {
     public interface ICSSScript
     {
+        string CreateCTags();
+        void addParam(string param,string value);
     }
 }
