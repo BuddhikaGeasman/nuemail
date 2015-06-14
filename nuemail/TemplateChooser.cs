@@ -40,13 +40,21 @@ namespace nuemail
 
             code1.addHeadTag();
             code1.addBodyTag(); // Flag bits are yet not added
+            
 
             label1.Text = code1.getHTMLCode();
         }
 
+        private void testing3()
+        {
+            HEDocument etemp = new HEDocument();
+            etemp.insertMainTable(2,new int[]{1,1});
+            label2.Text = etemp.InlineHTML();
+        }
+
         private void TemplateChooser_Load(object sender, EventArgs e)
         {
-            testing2();
+            testing3();
         }
     }
 }

@@ -10,7 +10,7 @@
   <Class Name="nuemail.HEDocument" Collapsed="true">
     <Position X="3.5" Y="1.25" Width="1.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
       <FileName>HEDocument.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -32,7 +32,7 @@
   <Class Name="nuemail.HCode" Collapsed="true">
     <Position X="0.5" Y="1.25" Width="1.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAABABAAIAAAAAAAgAAGAAAAAAAAQAAAAAIAAAA=</HashCode>
       <FileName>HCode.cs</FileName>
     </TypeIdentifier>
   </Class>
