@@ -6,17 +6,17 @@
 
 ## Purpose
 - Create a platform for users to create email news letters.
-- A software program that allows easily customers can build, edit templates.
+- A software program that allows to create HTML email newsletters from "Novice" user to "Advance" user.
 
 ## Objectives
-- Create fixed most generic email templates.
-- Create responsive html emails.
-- Remove bugs that can be occured during email distribution softwares; such as Lyris, mail cmmp.
-- Able to test from Litmus or email on acid.
-- Create customizable emails and html websites (per user web sites).
+- Created fixed width generic email templates.
+- Create responsive HTML email templates.
+- Remove bugs that can be occured during email distribution softwares; such as Mail Chimp, Mail Campaign.
+- Provide gateway to test on Email on Acid or Litmus (For HTML designers/Developers)
+- The software must be able to create customizable HTML email templates, HTML components such as buttons link colors, fonts etc
 - Provide CSS options.
 
-## HTML Email Characteristics
+## For developers to remember
 - `meta` tags `XTML Transitional`.
 - Width of the email must be 600px.
 - Using inline styles and making fixed styles in head tag.
