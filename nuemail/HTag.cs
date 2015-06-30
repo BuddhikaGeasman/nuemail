@@ -41,7 +41,7 @@ namespace nuemail
             if (argz == null || values == null)
                 return;
             if (argz.Length!=values.Length)
-                throw new Exception("NArgumentsNValuesNotEqualException.");
+                throw new Exception("NArgumentsNValuesNotEqualException");
 
             this.argz = argz;
             this.argzVal = values;
