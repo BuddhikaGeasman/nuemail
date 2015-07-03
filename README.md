@@ -2,7 +2,7 @@
 
 - [Purpose](#purpose)
 - [Objectives](#objectives)
-- [HTML Email Characteristics](#HTML Email Characteristics)
+- [For Developers to Remember](#For developers to remember)
 
 ## Purpose
 - Create a platform for users to create email news letters.
