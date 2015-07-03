@@ -63,6 +63,7 @@ public interface ICSSScript
 This interface gives the programmer the rules to implement a CSSScript class. The CSSScript class is implemented to only be non-nested styles.
 
 - class HTag : IHTag
+
 Following constructor creates a complete version of an HTML tag where `tag` is the tag name, `cname` is the css class, `style` is the inline css style and other html arguments and their values respectively. This throws the exception NArgumentsNValuesNotEqualException. Hence second and fourth also throw this Exception.
 
 ```
